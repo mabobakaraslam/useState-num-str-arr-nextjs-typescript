@@ -1,2 +1,3 @@
-# useState-num-str-arr-nextjs-typescript
-examples - num - string - array
+# First Applicatio using NextJS TypeScript
+
+Recommended Setttins are applied, Oct-2026
